@@ -3,10 +3,11 @@ api: 1
 steamID: 307960
 uid: com.thegreatcabbage.il2
 author: TheGreatCabbage
+pluginDirectory: "IL-2 BOS"
 
 graphicsConfig: data/startup.cfg
 keymapConfig: data/input/current.map
 
-dirName: "IL-2 Sturmovik Battle of Stalingrad"
+gameDirectory: "IL-2 Sturmovik Battle of Stalingrad"
 verificationPaths:
   - bin/game/Il-2.exe
