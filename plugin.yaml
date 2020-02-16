@@ -3,7 +3,7 @@ api: 1
 steamID: 307960
 uid: com.thegreatcabbage.il2
 author: TheGreatCabbage
-pluginDirectory: "il2bos"
+packageName: "il2bos"
 
 graphicsConfig: data/startup.cfg
 keymapConfig: data/input/current.map
