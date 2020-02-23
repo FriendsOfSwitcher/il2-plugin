@@ -4,6 +4,9 @@ steamID: 307960
 uid: com.thegreatcabbage.il2
 author: TheGreatCabbage
 packageName: "il2bos"
+features: 
+  - "graphics" 
+  - "keymaps"
 
 graphicsConfig: data/startup.cfg
 keymapConfig: data/input/current.map
